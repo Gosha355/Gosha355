@@ -7,22 +7,22 @@ Currently, I have completed a training course in "Neural Network Development."
 - Link to my resume:
   
 During the course, I acquired the following skills:
-Python fundamentals and Object-Oriented Programming (OOP)
-Data analysis
-Machine learning
-Computer vision
-Natural language processing
-Recommender systems
-Time series analysis
-Audio signal processing
-Fundamentals of neural networks and modern neural networks
-Model deployment
-Deep learning frameworks
-Basics of neural networks (working with libraries such as Keras, OpenCV, AutoML, etc.)
-Fundamentals of Data Science
-Telegram bot development
-Machine learning frameworks, OpenCV
-Working with WEB APIs
+- Python fundamentals and Object-Oriented Programming (OOP)
+- Data analysis
+- Machine learning
+- Computer vision
+- Natural language processing
+- Recommender systems
+- Time series analysis
+- Audio signal processing
+- Fundamentals of neural networks and modern neural networks
+- Model deployment
+- Deep learning frameworks
+- Basics of neural networks (working with libraries such as Keras, OpenCV, AutoML, etc.)
+- Fundamentals of Data Science
+- Telegram bot development
+- Machine learning frameworks, OpenCV
+- Working with WEB APIs
 
 Additionally, I am providing a link to my practical projects:
 https://github.com/Gosha355/practical-task-1
