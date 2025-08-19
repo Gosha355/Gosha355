@@ -4,7 +4,7 @@ Participated in the development of a startup, in the position of junior
 Currently, I have completed a training course in "Neural Network Development."
 - 📫 How to reach me: gosha_355@mail.ru or t.me/gosha_355
 - My phone number: +79097918687
-- Link to my resume:
+- Link to my resume: https://kaliningrad.hh.ru/resume/3e4c5dcaff0d3c65920039ed1f386238547145
   
 During the course, I acquired the following skills:
 - Python fundamentals and Object-Oriented Programming (OOP)
